@@ -9,7 +9,7 @@
     <h1>Survey Form</h1>
     <p>Thank you for taking time to fill out this survey.</p>
     
-    <form action="#" method="post">  <!-- Add action for form submission (even dummy for now) -->
+    <form action="#" method="post">  
         <label for="name">Name</label><br>
         <input type="text" id="name" name="name" required><br><br>
         
