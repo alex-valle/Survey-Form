@@ -38,7 +38,7 @@
           <input type="checkbox" id="class" value="back-end-projects">Back End Projects</input>
         </label>
         <p>Any additional feedback?</p>
-        <textarea>
+        <textarea id="comments>
         </textarea>
         <button type="submit" id="submit">Submit</button>
         
